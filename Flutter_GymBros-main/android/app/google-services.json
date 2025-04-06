@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "49850644824",
+    "project_id": "fluttergymbros",
+    "storage_bucket": "fluttergymbros.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:49850644824:android:31c6adb49b59e625548d2d",
+        "android_client_info": {
+          "package_name": "com.example.flutter_gymbros"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOUe_ltJW82EROitsnEypXpa8p1ED93Q0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
